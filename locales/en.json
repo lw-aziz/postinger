@@ -1,0 +1,10 @@
+{
+    "common": {
+        "200": "Success",
+        "400": "{{.Fields}} field missing/invalid.",
+        "401": "Unauthorized Access, Please Login.",
+        "404": "Data Not Found.",
+        "406": "Token Expired.",
+        "500": "Internal server error"
+    }
+}
